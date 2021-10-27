@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="time_run" id="};/v0JOptM-}=:e]{de9" disabled="true" x="0" y="0"><field name="direction">RingbitCar.Direction_run.forward</field><value name="time"><shadow type="math_number" id="~#STVWkrwk1Qj)kq9m!y" disabled="true"><field name="NUM">2</field></shadow></value></block></xml>
